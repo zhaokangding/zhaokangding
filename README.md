@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything challenging.
 - 🌱 I’m currently learning circuit.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 915050524@qq.com
 
 <!---
 zhaokangding/zhaokangding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
